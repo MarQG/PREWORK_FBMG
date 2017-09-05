@@ -1,0 +1,38 @@
+Errors Corrected:
+
+BooTheDog.html
+
+	Overall Changes: Fixed <tag> alignment for readability.
+
+	Line 19: Missing <h1></h1> tags to page header
+
+	Line 27 - 38: Missing <p></p> tags around paragraph content.
+
+	Line 37: <a></a> was missing href="" link to wikipedia website.
+
+	Line 45: Missing < /> brackets from around img tag.
+
+	Line 53 - 77: Moved HTML Elements up and around to be positioned as expected.
+
+	Line 66: Corrected the id="textGreen" to id="textOrange".
+
+	Line 67: Corrected the id="textOrange" to id="textPink".
+
+	Line 68: Corrected the id="textPink" to id="textGreen".
+
+	Line 97 to 101: Added <li></li> to each element in the list.
+
+	Line 114: Corrected the src="error.js" to src="logic.js" to properly connect the .js script to the page.
+
+logic.js
+
+	Overall Changes: Cleanup code for better readability.
+
+	Line 9 - 13: Added "" around array elements to fix the factsButton displaying a single paragraph instead of individual sentences of facts.
+
+	Line 17: Changed pink to "pink" to correct functions expected color value.
+
+	Line 34: Changed click to "click" in on() function to pass expected variable to function and restore button.
+
+	Line 41: Changed click to "click" in on() function to pass expected variable to function and restore button.
+

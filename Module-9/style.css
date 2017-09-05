@@ -1,0 +1,44 @@
+.center{
+	text-align: center;
+}
+
+.red{
+	color: red;
+}
+
+.blue{
+	color: blue;
+}
+
+.green{
+	color: green;
+}
+
+.orange{
+	color: orange;
+}
+
+.big{
+	font-size: 150%;
+}
+
+.small{
+	font-size: 50%;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.helvetica{
+	font-family: Helvetica;
+}
+
+.styledFont{
+	font-family: Helvetica;
+	color: green;
+}
+
+#styledImage{
+	border: 10px solid orange;
+}

@@ -1,0 +1,41 @@
+body{
+
+	font-family: Helvetica;
+	background: gray;
+}
+h1{
+	color: #2d597d;
+}
+
+h2{
+	color: #2d597d;
+}
+
+p{
+	color: #474747;
+}
+
+#list{
+	text-align: center;
+	list-style: none;
+	color: #474747;
+}
+
+.center{
+
+	text-align: center;
+}
+
+.container{
+	background-color: #9FA19f;
+	margin: 0 auto;
+	height: 100%;
+	padding: 15px 25px;
+}
+
+.styledImage{
+	width:75%;
+	display:block;
+	margin: auto;
+	padding:10px;
+}s

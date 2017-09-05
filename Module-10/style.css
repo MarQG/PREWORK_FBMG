@@ -1,0 +1,52 @@
+.container{
+	margin: 0 auto;
+	padding: 20px;
+	text-align: center;
+}
+
+.box{
+	height:150px; 
+	width:150px; 
+	background-color:orange; 
+	margin:25px auto;
+	transition: all 1s ease-in-out;
+}
+
+button{
+
+	display: inline-block;
+	margin: 0 10px 0 0;
+	padding: 15px 45px;
+	font-size: 20px;
+	font-family: "Bitter" ,serif;
+	line-height: 1.8;
+	appearance: none;
+	box-shadow: none;
+	border-radius: 15px;
+	border: none;
+	background-color: #00aaef;
+	color: white;
+	outline: none;
+
+}
+
+button:hover{
+	outline: none;
+	background-color: #012c5a;
+}
+
+.rotated {
+    -webkit-transform: rotate(360deg) ;  /* Chrome, Safari 3.1+ */
+    -moz-transform: rotate(360deg) ;  /* Firefox 3.5-15 */
+    -ms-transform: rotate(360deg) ;  /* IE 9 */
+    -o-transform: rotate(360deg) ;  /* Opera 10.50-12.00 */
+    transform: rotate(360deg) ;  /* Firefox 16+, IE 10+, Opera 12.10+ */
+}
+
+.grow{
+	-webkit-transform: scale(1.5) ;  /* Chrome, Safari 3.1+ */
+    -moz-transform: scale(1.5) ;  /* Firefox 3.5-15 */
+    -ms-transform: scale(1.5) ;  /* IE 9 */
+    -o-transform: scale(1.5) ;  /* Opera 10.50-12.00 */
+    transform: scale(1.5) ;
+}
